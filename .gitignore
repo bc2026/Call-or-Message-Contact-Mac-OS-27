@@ -1,0 +1,11 @@
+# Compiled binary (build from get_contacts.swift with: swiftc get_contacts.swift -o get_contacts)
+get_contacts
+
+# Contacts cache (contains personal phone numbers)
+.contacts_cache.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+workflow/__pycache__/
+workflow/*.pyc
